@@ -1,0 +1,8 @@
+﻿  ClientManager.cpp
+  EventHandle.cpp
+  ObjectManager.cpp
+  main.cpp
+E:\College\OneDrive\6th\NetGameProg\temp_proj\Project1\main.cpp(12,24): warning C4244: '초기화 중': 'float'에서 'ULONGLONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\College\OneDrive\6th\NetGameProg\temp_proj\Project1\main.cpp(91,29): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> E:\College\OneDrive\6th\NetGameProg\temp_proj\Project1\x64\Debug\Project1.exe
